@@ -1,7 +1,7 @@
 # Php_Symfony-Tareas
 Proyecto de software de tareas 
 
-IMPORTANT: no importados los ficheros vendor, var, migrations... instalar Symfony para generarse automaticamente
+IMPORTANT: no importados los ficheros vendor, var, migrations... instalar/crear proyecto de Symfony para generarse automaticamente
 
 # Instalacion de Symfony y creación de BD paso a paso:
 
