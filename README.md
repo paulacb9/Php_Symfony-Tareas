@@ -35,6 +35,8 @@ IMPORTANT: no importados los ficheros vendor, var, migrations... instalar Symfon
 - Reiniciar el servidor Web 
 
 ## Crear diagrama en DIA y Base de Datos con SQL 
+![imagen](https://user-images.githubusercontent.com/124586059/234128705-490b0ec3-4b67-4ad3-aca9-79814bff2f53.png)
+
 
 ## Vincular BD con el proyecto 
 - En el archivo .env
